@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672037387746">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672038286118">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="288695147" ref="index"/>
+    <file name="index.css" crc="214528834" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="755106442314514462.png" crc="3889243242" seo="true" mt="1654980920000"/>
@@ -31,9 +31,9 @@
     </file>
     <file name="u104-4.png" crc="4110618723" ref="index"/>
     <file name="favicon.ico" crc="3823888772" ref="index"/>
-    <file name="tumblr_pkjrnaye7t1xysfm4o8_r1_540.gif" crc="51828546" seo="true" ref="index">
+    <file name="2022-12-26-13-35-23-1-2.gif" crc="441669690" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="217332159" seo="true" mt="1672037377855" redirect="true"/>
+  <file name="index.html" crc="4113439775" seo="true" mt="1672038258894" redirect="true"/>
 </manifest>
