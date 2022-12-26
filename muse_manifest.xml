@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672036521672">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672036829901">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="210374528" ref="index"/>
+    <file name="index.css" crc="3943316042" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="755106442314514462.png" crc="3889243242" seo="true" mt="1654980920000"/>
@@ -21,7 +21,6 @@
     <file name="dnscxde_qr2.jpg" crc="328595133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u104-5.png" crc="4103222490" ref="index"/>
     <file name="u110-4.png" crc="27720758" ref="index"/>
     <file name="alert1.png" crc="3794618526" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -33,6 +32,7 @@
     <file name="oceans1.jpg" crc="167846313" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u104-4.png" crc="4110618723" ref="index"/>
   </folder>
-  <file name="index.html" crc="238858967" seo="true" mt="1672036485059" redirect="true"/>
+  <file name="index.html" crc="3809410297" seo="true" mt="1672036805630" redirect="true"/>
 </manifest>
