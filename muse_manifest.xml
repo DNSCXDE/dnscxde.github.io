@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672038286118">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672039204579">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="214528834" ref="index"/>
+    <file name="index.css" crc="3848705946" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="755106442314514462.png" crc="3889243242" seo="true" mt="1654980920000"/>
@@ -18,22 +18,27 @@
     <file name="dnscxde_qr2.jpg" crc="328595133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u110-4.png" crc="27720758" ref="index"/>
+    <file name="u110-4.png" crc="352107648" ref="index"/>
     <file name="alert1.png" crc="3794618526" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1234-4.png" crc="3917347962" ref="index"/>
     <file name="id508800672154517535.png" crc="200546315" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="oceans1.jpg" crc="167846313" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u104-4.png" crc="4110618723" ref="index"/>
+    <file name="u104-4.png" crc="111757943" ref="index"/>
     <file name="favicon.ico" crc="3823888772" ref="index"/>
     <file name="2022-12-26-13-35-23-1-2.gif" crc="441669690" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="92c318bd15473f35b31281bd9d880f75600x600x1.jpg" crc="153379979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gl00my_sc_fotox2_2x22.jpg" crc="3833939678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4113439775" seo="true" mt="1672038258894" redirect="true"/>
+  <file name="index.html" crc="3914842305" seo="true" mt="1672039194481" redirect="true"/>
 </manifest>
