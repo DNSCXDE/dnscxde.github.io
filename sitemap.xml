@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://dnscxde.com/images/limphairybassethound-size_restricted%20(1).gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dnscxde.com/images/dnscxde_qr2.jpg</image:loc>
     </image:image>
     <image:image>
@@ -19,6 +16,9 @@
     </image:image>
     <image:image>
       <image:loc>http://dnscxde.com/images/oceans1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dnscxde.com/images/8bc5ad87ea7048d5e62bdba4a7e93b9d00a692d8r1-960-407_hq.gif</image:loc>
     </image:image>
   </url>
   <url>
