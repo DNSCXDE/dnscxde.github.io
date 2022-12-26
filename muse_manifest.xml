@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672042366706">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672079767489">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="88579650" ref="index"/>
+    <file name="index.css" crc="4052717113" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="755106442314514462.png" crc="3889243242" seo="true" mt="1654980920000"/>
@@ -15,36 +15,13 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="dnscxde_qr2.jpg" crc="328595133" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="alert1.png" crc="3794618526" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="id508800672154517535.png" crc="200546315" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u104-4.png" crc="111757943" ref="index"/>
     <file name="favicon.ico" crc="3823888772" ref="index"/>
-    <file name="2022-12-26-13-35-23-1-2.gif" crc="441669690" seo="true" ref="index">
+    <file name="group 1.png" crc="521096330" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="92c318bd15473f35b31281bd9d880f75600x600x1.jpg" crc="153379979" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u110-6.png" crc="4073137338" ref="index"/>
-    <file name="oceans1.png" crc="221326424" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="gl00my_sc_fotox2_2x22.png" crc="160182918" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blender1.jpg" crc="496228730" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="layer 2.jpg" crc="454298016" ref="index">
+    <file name="ripple 2.jpg" crc="4060636064" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="236640155" seo="true" mt="1672042349250" redirect="true"/>
+  <file name="index.html" crc="254147891" seo="true" mt="1672079751360" redirect="true"/>
 </manifest>
