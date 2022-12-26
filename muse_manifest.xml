@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672083899404">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672094755161">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="490487010" ref="index"/>
+    <file name="index.css" crc="3985535639" ref="index"/>
+    <file name="nomq_index.css" crc="4267651132" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="755106442314514462.png" crc="3889243242" seo="true" mt="1654980920000"/>
@@ -13,15 +14,19 @@
     <file name="museconfig.js" crc="128606099" ref="index"/>
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3823888772" ref="index"/>
-    <file name="group 1.png" crc="521096330" seo="true" ref="index">
+    <file name="group 1.png" crc="3803121717" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ripple 2.jpg" crc="119591776" seo="true" ref="index">
+    <file name="channels4_profile.jpg" crc="336576619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3817770450" seo="true" mt="1672083689449" redirect="true"/>
+  <file name="index.html" crc="230975639" seo="true" mt="1672094737895" redirect="true"/>
 </manifest>
