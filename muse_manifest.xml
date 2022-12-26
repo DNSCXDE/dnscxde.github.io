@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672080243905">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672083899404">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="9875792" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="490487010" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="755106442314514462.png" crc="3889243242" seo="true" mt="1654980920000"/>
@@ -19,12 +19,9 @@
     <file name="group 1.png" crc="521096330" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ripple 2.jpg" crc="4060636064" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bgcolour1.jpg" crc="3793393607" ref="index">
+    <file name="ripple 2.jpg" crc="119591776" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3875692345" seo="true" mt="1672080235709" redirect="true"/>
+  <file name="index.html" crc="3817770450" seo="true" mt="1672083689449" redirect="true"/>
 </manifest>
