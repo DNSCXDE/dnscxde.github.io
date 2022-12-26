@@ -26,6 +26,9 @@
     <image:image>
       <image:loc>http://dnscxde.com/images/gl00my_sc_fotox2_2x22.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://dnscxde.com/images/blender1.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://dnscxde.com/assets/755106442314514462.png</loc>
