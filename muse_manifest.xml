@@ -1,30 +1,56 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672095196365">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672105997214">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="4191187558" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="4200013543" ref="index"/>
+    <file name="404.css" crc="469278993" ref="404"/>
   </folder>
   <folder name="assets">
     <file name="755106442314514462.png" crc="3889243242" seo="true" mt="1654980920000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="128606099" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:404"/>
+    <file name="museutils.js" crc="3939489907" ref="index:404"/>
+    <file name="whatinput.js" crc="86476730" ref="index:404"/>
+    <file name="museconfig.js" crc="128606099" ref="index:404"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:404"/>
+    <file name="require.js" crc="4177726516" ref="index:404"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3823888772" ref="index"/>
-    <file name="group 1.png" crc="3803121717" seo="true" ref="index">
+    <file name="favicon.ico" crc="3823888772" ref="index:404"/>
+    <file name="group 1.png" crc="4220293684" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="channels4_profile-crop-u3032.jpg" crc="320472685" seo="true" ref="index">
+    <file name="channels4_profile-crop-u3032.jpg" crc="38667941" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="525916087662149652.gif" crc="128050629" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="group 14.png" crc="334430051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="umbrella-with-rain-drops_2614 (2).png" crc="4082267868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 1 copy 62.png" crc="6798997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="connect コネクト.png" crc="528591391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about__ だいたい.png" crc="3884667110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peacepixels__777-.png" crc="329962872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="purple-heart_1f49c.png" crc="3776567285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="id755106442314514462.png" crc="3777210330" seo="true" ref="404">
+      <caption webpage="404" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="298547001" seo="true" mt="1672095153371" redirect="true"/>
+  <file name="index.html" crc="3931653632" seo="true" mt="1672105852718" redirect="true"/>
+  <file name="404.html" crc="3926934765" seo="true" mt="1672105988018" redirect="true"/>
 </manifest>
