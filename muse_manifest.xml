@@ -1,32 +1,21 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672117323029">
-  <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="307974350" ref="index"/>
-    <file name="404.css" crc="186815993" ref="404"/>
-  </folder>
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672515040852">
   <folder name="assets">
-    <file name="755106442314514462.png" crc="3889243242" seo="true" mt="1654980920000"/>
-    <file name="record-2022-03-14-at-01h55m25s.wav" crc="3965306718" seo="true" mt="1647248271000"/>
+    <file name="2023-01-01-03-27-41-1.mp4" crc="348908378" seo="true" mt="1672511952000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="4022936357" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:404"/>
-    <file name="museutils.js" crc="3939489907" ref="index:404"/>
-    <file name="whatinput.js" crc="86476730" ref="index:404"/>
-    <file name="museconfig.js" crc="128606099" ref="index:404"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:404"/>
-    <file name="require.js" crc="4177726516" ref="index:404"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3823888772" ref="index:404"/>
-    <file name="group 1.png" crc="4220293684" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="channels4_profile-crop-u3032.jpg" crc="38667941" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="525916087662149652.gif" crc="128050629" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="favicon.ico" crc="3823888772" ref="index"/>
     <file name="group 14.png" crc="334430051" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -48,13 +37,6 @@
     <file name="purple-heart_1f49c.png" crc="3776567285" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="631333243949416448.gif" crc="3797336742" ref="404">
-      <caption webpage="404" alt=""/>
-    </file>
-    <file name="2022-12-27-13-19-08ef.gif" crc="524640549" seo="true" ref="404">
-      <caption webpage="404" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="37622593" seo="true" mt="1672113079290" redirect="true"/>
-  <file name="404.html" crc="3760106114" seo="true" mt="1672117313515" redirect="true"/>
+  <file name="index.html" crc="3915018898" seo="true" mt="1672515021435" redirect="true"/>
 </manifest>

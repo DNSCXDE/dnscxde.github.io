@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dnscxde.com/index.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dnscxde.com/images/group%201.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dnscxde.com/images/channels4_profile-crop-u3032.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dnscxde.com/images/525916087662149652.gif</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://dnscxde.com/images/group%2014.png</image:loc>
     </image:image>
@@ -37,23 +28,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://dnscxde.com/404.html</loc>
-    <lastmod>2022-12-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dnscxde.com/images/2022-12-27-13-19-08ef.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://dnscxde.com/assets/record-2022-03-14-at-01h55m25s.wav</loc>
-    <lastmod>2022-03-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://dnscxde.com/assets/755106442314514462.png</loc>
-    <lastmod>2022-06-12</lastmod>
+    <loc>http://dnscxde.com/assets/2023-01-01-03-27-41-1.mp4</loc>
+    <lastmod>2023-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
