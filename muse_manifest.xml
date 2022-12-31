@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672516919656">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dnscxde.com" resolutions="1x" timestamp="1672517503563">
   <folder name="assets">
     <file name="2023-01-01-03-27-41-1.mp4" crc="348908378" seo="true" mt="1672511952000"/>
   </folder>
@@ -38,5 +38,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4164621590" seo="true" mt="1672516907516" redirect="true"/>
+  <file name="index.html" crc="4164621590" seo="true" mt="1672517498905" redirect="true"/>
 </manifest>
