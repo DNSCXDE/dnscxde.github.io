@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dnscxde.com/index.html</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dnscxde.com/images/group%2014.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dnscxde.com/images/umbrella-with-rain-drops_2614%20(2).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dnscxde.com/images/layer%201%20copy%2062.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://dnscxde.com/images/connect%20%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88.png</image:loc>
     </image:image>
@@ -26,10 +17,28 @@
     <image:image>
       <image:loc>http://dnscxde.com/images/purple-heart_1f49c.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://dnscxde.com/images/group%2014.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dnscxde.com/images/umbrella-with-rain-drops_2614%20(2).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dnscxde.com/images/basix-icon-white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dnscxde.com/images/3ds_learning_japanese_hero-scaled-crop-u6486.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://dnscxde.com/assets/2023-01-01-03-27-41-1.mp4</loc>
-    <lastmod>2023-01-01</lastmod>
+    <loc>http://dnscxde.com/assets/dribbble.webp</loc>
+    <lastmod>2023-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dnscxde.com/assets/hq720.jpg</loc>
+    <lastmod>2023-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
